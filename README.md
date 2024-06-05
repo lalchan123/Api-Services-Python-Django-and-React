@@ -1,7 +1,6 @@
 # Api-Services-Python-Django-and-React
-**Project Summary-** Django Ecommerce Payment Gateway website is an online based ecommerce web application.
-        Through which you can do your own online business at home and you can set up and maintain an online business very easily. You can provide good service to the user through online. <br />
-**Features-** Authentication Facility, Product add update delete and product added features are shown to the user.Users can add their preferred products to the card and from the card they can purchase products by making online based payments to purchase the products.Without authentication, users will never be able to buy and review products.The user is provided with a nice profile facility.Admin can maintain everything from his admin dashboard. <br /> 
+**Project Summary-** Rest full API can be created very nicely through Python code from UI. The created API works like the rest full API etc.<br />
+**Features-** There is authentication facility through OTP, The code editor has the facility to write Python code, api parameter and show output.There is a facility to view the number of APIs created and update, delete them. There is a facility to run the APIs and view the output etc. <br /> 
 **Language-** HTML,CSS,JAVASCRIPT,BOOTSTRAP, Material UI, Tailwind CSS, DJANGO, Django Restfull API, Django Graphql API, ApolloClient etc. <br />
 **Database-** MySql <br />
 **Tools-** Visual Studio Code, Postman, AWS etc <br />  <br />  <br />
